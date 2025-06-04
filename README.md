@@ -1,7 +1,7 @@
 # plan4res
 
 Here you will find everything to install and run plan4res:
-- [plan4res user manual](https://github.com/plan4res/documentation/blob/main/plan4resUserManual.pdf): this document includes:
+- [plan4res user manual](https://github.com/plan4res/documentation/blob/main/plan4resUserManual.pdf): this pdf document includes:
   - An installation guide for linux and windows
   - A description of the plan4res environment, modules and workflows
   - A description of the plan4res input data

@@ -1,6 +1,12 @@
 # plan4res
 
-Here you will find everything to install and run plan4res.
+Here you will find everything to install and run plan4res:
+- [plan4res user manual](https://github.com/plan4res/documentation/blob/main/plan4resUserManual.pdf): this document includes:
+  - An installation guide for linux and windows
+  - A description of the plan4res environment, modules and workflows
+  - A description of the plan4res input data
+  - A tutorial how to run the different plan4res modules, linkage and postreatment scripts. This also includes a description of all configuration files
+  - A description of the plan4res outputs
 
 Plan4res is an electricity system optimisation and simulation tool, composed of the 3 following models:
 

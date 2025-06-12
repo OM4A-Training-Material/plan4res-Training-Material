@@ -105,3 +105,6 @@ Check our [Questions & Answers](docs/faq.md) page for common issues and guidance
 
 For support and inquiries, please use the [plan4res contact form](https://plan4res.github.io/contact/contact.html).
 
+
+References:  
+Official repo: [https://github.com/plan4res](https://github.com/plan4res)  

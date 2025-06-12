@@ -89,6 +89,16 @@ You can use the [toyDataset](https://github.com/plan4res/toyDataset) as an examp
    p4r SSVandCEM          # Combined SSV + CEM
    ```
 
+## 🎥 Step-by-step Video Support
+
+You can find all tutorials on <a href="https://www.youtube.com/playlist?list=PLHN93NPePQ1JNz3JROb_sVbF5pjOG-EDx" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000/16" alt="YouTube" height="16" style="vertical-align: text-bottom; margin-left: 4px;">
+</a>
+
+## ❓ Need Help?
+
+Check our [Questions & Answers](docs/faq.md) page for common issues and guidance.
+
 ---
 
 ## 📬 Contact

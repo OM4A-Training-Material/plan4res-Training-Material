@@ -2,7 +2,7 @@
 
 ## 📘 Introduction
 
-**plan4res** est un outil d’optimisation et de simulation des systèmes électriques, composé de trois modèles intégrés :
+**Plan4res** est un outil d’optimisation et de simulation des systèmes électriques, composé de trois modèles intégrés :
 
 - **CEM** – *Modèle d’expansion de capacité* : optimise les investissements dans la production, le stockage et les interconnexions pour répondre à la demande tout en minimisant les coûts totaux du système.
 - **SSV** – *Modèle de valorisation du stockage saisonnier* : calcule les « valeurs de l’eau » pour optimiser l’utilisation du stockage saisonnier lors des périodes de forte demande.
@@ -94,7 +94,7 @@ Vous pouvez utiliser le [jeu de données d’exemple (toyDataset)](https://githu
 ## 🎥 Support Vidéo Pas-à-pas
 
 Vous pouvez retrouver tous les tutoriels sur  
-<a href="https://www.youtube.com/playlist?list=PLHN93NPePQ1JNz3JROb_sVbF5pjOG-EDx" target="_blank" style="text-decoration: none;">
+<a href="https://www.youtube.com/playlist?list=PLHN93NPePQ1IWXjwSWkLIyo6tAc0xT9Rd">
   <img src="https://cdn.simpleicons.org/youtube/FF0000/16" alt="YouTube" height="16" style="vertical-align: text-bottom; margin-left: 4px;">
 </a>
 

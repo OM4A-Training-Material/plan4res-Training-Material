@@ -94,7 +94,7 @@ Vous pouvez utiliser le [jeu de données d’exemple (toyDataset)](https://githu
 ## 🎥 Support Vidéo Pas-à-pas
 
 Vous pouvez retrouver tous les tutoriels sur  
-<a href="https://www.youtube.com/playlist?list=PLHN93NPePQ1IWXjwSWkLIyo6tAc0xT9Rd"target="_blank" style="text-decoration: none;">
+<a href="https://www.youtube.com/playlist?list=PLHN93NPePQ1IWXjwSWkLIyo6tAc0xT9Rd" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.simpleicons.org/youtube/FF0000/16" alt="YouTube" height="16" style="vertical-align: text-bottom; margin-left: 4px;">
 </a>
 ---

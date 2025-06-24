@@ -6,11 +6,11 @@
 
 - **CEM** – *Modèle d’expansion de capacité* : optimise les investissements dans la production, le stockage et les interconnexions pour répondre à la demande tout en minimisant les coûts totaux du système.
 - **SSV** – *Modèle de valorisation du stockage saisonnier* : calcule les « valeurs de l’eau » pour optimiser l’utilisation du stockage saisonnier lors des périodes de forte demande.
-- **SIM** – *Modèle de simulation* : effectue l’engagement unitaire et le dispatch horaire du système sur une année complète.
+- **SIM** – *Modèle de simulation* : calcule le dispatch horaire du système sur une année complète.
 
 L’écosystème plan4res inclut :
 - 🔧 `p4r-env` : environnement d’exécution développé par CRAY & HPE ([GitLab](https://gitlab.com/cerl/plan4res/p4r-env))  
-- 📦 Modèles de base construits avec la bibliothèque `SMS++` de l’Université de Pise ([GitLab](https://gitlab.com/smspp/smspp-project))  
+- 📦 Modèles de calcul construits avec la bibliothèque `SMS++` de l’Université de Pise ([GitLab](https://gitlab.com/smspp/smspp-project))  
 - 🛠️ Outils Python pour le traitement et la visualisation des données ([plan4res-scripts](https://github.com/plan4res/plan4res-scripts))  
 - 🔁 Scripts de gestion des workflows ([include](https://github.com/plan4res/include))  
 
@@ -52,7 +52,7 @@ Vous pouvez accéder à toute la documentation et aux tutoriels pour installer e
    ```
    > Utilisez `./plan4res_install.sh -H` pour l’aide et les options.
 
-2. Si vous utilisez un serveur ou un dépôt externe, configurez votre utilisateur :
+2. Si vous avez installé plan4res sur un serveur ou sur un autre répertoire que celui ou vous souhaitez l'exécuter, configurez votre compte utilisateur :
    ```bash
    ./user_init_plan4res -D P4R_INSTALL_DIR
    ```
@@ -69,7 +69,7 @@ Vous pouvez utiliser le [jeu de données d’exemple (toyDataset)](https://githu
    p4r CREATE toyDataset
    ```
 
-2. **Formater les données NetCDF** pour SSV (requis par SMS++) à partir des fichiers CSV de plan4res pour chaque module – stockage saisonnier (SSV), simulation (SIM) et expansion de capacité (CEM) :
+2. **Formater les données NetCDF** pour SSV (requis par SMS++) à partir des fichiers de données au format CSV natif de plan4res pour chaque module – stockage saisonnier (SSV), simulation (SIM) et expansion de capacité (CEM) :
    ```bash
    p4r FORMAT toyDataset -M optim    # pour SSV
    p4r FORMAT toyDataset -M simul    # pour SIM
